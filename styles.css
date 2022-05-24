@@ -1,0 +1,43 @@
+.Title {
+    color: #ab0bd4;
+    font-family: 'Koulen', cursive;
+    font-size: 60px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+img {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+
+}
+
+iframe {
+    width: 75%;
+    height: 500px;
+    margin: 100px;
+
+}
+
+iframe {
+    padding: 10px;
+    border: 5px black;
+    border-style: double solid;
+
+}
+button {
+    padding: 10px;
+    border: 5px black;
+    border-style: double solid;
+
+}
